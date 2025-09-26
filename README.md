@@ -17,7 +17,3 @@ python todo.py list
 python todo.py complete 1
 python todo.py delete 1
 ```
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md).
