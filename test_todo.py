@@ -1,5 +1,6 @@
+import sys
 import os
-import json
+sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
 import todo
 
 def test_add_and_list(monkeypatch):
